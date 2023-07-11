@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MatWro
 - 👀 I’m interested in coding.
-- 🌱 I’m currently learning python and sql databases.
+- 🌱 I’m currently learning Java and springBoot.
 - 💞️ I’m looking to collaborate on projects.
 - 📫 How to reach me: Please send an email mateusz.wrobel993@gmail.com.
